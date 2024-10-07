@@ -3,18 +3,18 @@
 
 require("./all/module.js")
 
-global.owner = "2347036214381" //change
-global.botname = "𝑨𝒓𝒄𝒉 𝑴𝒅 𝑨𝒊"  //change
-global.ownername = "ᴇᴅɴᴜᴛ" //change
+global.owner = "923449412639" //change
+global.botname = "🅗🅤🅡🅐🅘🅡🅐🅗-🅜🅓"  //change
+global.ownername = "ABUHURAIRAH" //change
 global.simbol = "♘"
 global.footer = "`𝑮𝒉𝒂𝒔𝒕 𝑪𝒍𝒂𝒏 𝑮𝒓𝒆𝒚`" //Don't touch others
 
-global.ytchannel = "youtube.com/@Ednuthimself"
+global.ytchannel = "youtube.com/@HURAIRAH"
 
 global.idchannel = "120363297279563825@newsletter"
-global.linkgc = 'https://whatsapp.com/channel/0029VamspnPB4hdUnvLaIX17'
+global.linkgc = 'https://whatsapp.com/channel/HURAIRAH'
 
-global.packname = "Arch Development"
+global.packname = "HURAIRAH Development"
 global.author = "WhatsApp Bot"
 
 global.anticall = false
